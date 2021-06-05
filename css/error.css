@@ -1,0 +1,24 @@
+.error {
+    position: relative;
+}
+.error h2{
+    position: absolute;
+    color: #410009;
+    top: 180px ;
+    left: 0;
+    font-size: 2;
+    z-index: 4;
+    padding: 2rem;
+    font-size: 2.4rem;
+
+}
+
+.error p{
+
+    position: absolute;
+    color: #410009;
+    top: 220px;
+    left: 0;
+    padding: 2rem;
+    font-size: 2.2rem;
+ }
